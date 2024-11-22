@@ -11,3 +11,13 @@ https://docs.google.com/spreadsheets/d/1Z9gVDmnc4kcL0PbLfyFtpFLxVHJJGcfcKSuYaCyg
 
 CSSTOOL
 https://docs.google.com/spreadsheets/d/17znMW4ZPx_AzH2hCmpmeDaGSSwxtF6Nz0R3lHy5oBrg/edit?gid=0#gid=0
+
+FRONTEND
+UserName
+frontendhtml74@gmail.com
+Password
+iqlance@123456
+
+Recovery email address
+chirag.iqlance@gmail.com
+9662755562
